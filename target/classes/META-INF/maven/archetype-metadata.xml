@@ -19,6 +19,13 @@
 				<include>**/*.java</include>
 			</includes>
 		</fileSet>
+		
+		<fileSet filtered="true" packaged="false">
+			<directory></directory>
+			<includes>
+				<include>**/*.properties</include>
+			</includes>
+		</fileSet>
 
 	</fileSets>
 
