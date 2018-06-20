@@ -10,11 +10,11 @@
 
 	<groupId>com.musala.atmosphere</groupId>
 
-	<artifactId>atmosphere-test-archetype</artifactId>
+	<artifactId>atmosphere-test-template</artifactId>
 
 	<version>0.0.2</version>
 
-	<name>Archetype - atmosphere-test-archetype</name>
+	<name>Archetype - atmosphere-test-template</name>
 
-	<url>http://maven.apache.org</url>
+	<url>http://atmosphereframework.com/</url>
 </project>
