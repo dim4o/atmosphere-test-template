@@ -1,1 +1,7 @@
-/target/
+## Eclipse
+target/
+bin/
+.settings/
+.metadata
+.classpath
+.project
